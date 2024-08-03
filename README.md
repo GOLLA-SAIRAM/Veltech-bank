@@ -1,4 +1,4 @@
-# Veltech-bankSure! Here is a README file for your Veltech-bank application:
+# Veltech-bank Here is a README file for your Veltech-bank application:
 
 ---
 
@@ -74,7 +74,7 @@ Veltech-bank is a simple banking application developed using Java, JSP, Servlets
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/veltech-bank.git
+   git clone https://github.com/GOLLA-SAIRAM/Veltech-bank.git
    ```
 
 2. Import the project into your IDE (Eclipse/IntelliJ IDEA).
